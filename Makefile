@@ -1,7 +1,7 @@
 setup:
 	# Create python virtualenv & source it
 	# source ~/.udacity-devops/bin/activate
-	python3 -m venv ~/.myrepo
+	python3 -m venv ~/.hello
 
 install:
 	# This should be run from inside a virtualenv
